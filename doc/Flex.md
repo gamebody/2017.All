@@ -32,8 +32,8 @@
 
 ## 项目属性
 - order 项目的排列顺序，越小越靠前，默认为0
-- flex-grow 项目的放大比例，默认为0
-- flex-shrink 项目的缩小比例,默认为1
+- flex-grow 项目的放大比例，默认为0,存在剩余空间也不放大
+- flex-shrink 项目的缩小比例,默认为1，空间不足，缩小，如果为0，空间不足 -> 不缩小
 - flex-basis 项目占据的主轴空间(**auto** | 固定大小)
 - flex 上面三个的属性的简写(0 1 auto)
 - align-self 允许单个项目的对齐方式和其他项目不一样(auto | flex-start | flex-end | center | base-line | stretch)
