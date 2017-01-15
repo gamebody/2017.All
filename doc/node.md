@@ -3,4 +3,5 @@
 
 1. 书籍：《node与express开发》
         (总结了第6章)
+        (理解cookie)
 2. 跟我一起学node
