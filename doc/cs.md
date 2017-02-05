@@ -9,3 +9,4 @@
 - html5 + javascript动画基础
 - 黑客与画家
 - MySQL与MariaDB学习指南
+- 响应式Web设计：HTML5和CSS3实战（第2版）
