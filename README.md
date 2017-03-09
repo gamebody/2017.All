@@ -6,8 +6,6 @@
 
 1. [Flex布局](./doc/flex.md)
 2. Vue2
-<<<<<<< HEAD
 3. Bootstrap
-=======
-3. node
->>>>>>> f4b16a2f2598cef5b8ca61903e7682fccafe7938
+4. node
+5. javascript知识体系
