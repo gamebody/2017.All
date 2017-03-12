@@ -11,3 +11,4 @@
 5. javascript知识体系
     - cookie
     - localStorage, sessionStorage
+    - JSON
