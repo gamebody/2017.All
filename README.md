@@ -12,3 +12,7 @@
     - cookie
     - localStorage, sessionStorage
     - JSON
+    - 事件
+        - 事件处理程序
+        - 事件对象
+        - 事件类型
