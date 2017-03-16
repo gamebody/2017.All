@@ -8,6 +8,7 @@
 2. Bootstrap
 3. node
 4. javascript知识体系
+    - 基本类型
     - cookie
     - localStorage, sessionStorage
     - JSON
