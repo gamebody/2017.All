@@ -9,6 +9,7 @@
 3. node
 4. javascript知识体系
     - 基本类型
+    - 引用类型
     - cookie
     - localStorage, sessionStorage
     - JSON
