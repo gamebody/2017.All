@@ -30,3 +30,5 @@
     （待定）
     bootstrap架构
 9. 性能优化
+
+10. canvas
