@@ -17,6 +17,7 @@
         - 事件处理程序
         - 事件对象
         - 事件类型
+    - requestAnimationFrame
 
 5. css
     - [Flex布局](./doc/flex.md)
