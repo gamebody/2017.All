@@ -29,8 +29,8 @@
     - sass(进行中)
    
 8. 源码分析
-    （待定）
-    bootstrap架构
+    - Ramda源码
+    - bootstrap
 9. 性能优化
 10. 了解一下数据可视化
 11. HTML5
